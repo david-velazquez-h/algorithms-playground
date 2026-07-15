@@ -1,5 +1,5 @@
-## Why this project?
 # algorithms-playground
+## Why this project?
 
 Algorithms are one of the foundations of Computer Science.
 
