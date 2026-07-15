@@ -2,8 +2,8 @@ plugins {
     id 'java'
 }
 
-group = 'com.ingeniotics'
-version = '1.0-SNAPSHOT'
+group = 'dev.davidvelazquez'
+version = '1.0.0'
 
 repositories {
     mavenCentral()
