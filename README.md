@@ -31,7 +31,7 @@ Each algorithm includes:
 ### Searching
 
 - [x] Linear Search
-- [ ] Binary Search
+- [x] Binary Search
 
 ### Sorting
 
